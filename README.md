@@ -1,4 +1,4 @@
-# Hi, I'm UK 👋
+# Hi, I'm Physworks 👋
 
 ### Physics-based Algorithm Engineer → Building AI for Physics, Simulation & Semiconductor Devices
 
