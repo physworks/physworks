@@ -54,7 +54,7 @@ Open research log building Physics-Informed Neural Network (PINN) models for sem
 
 ## Philosophy
 
-Understand the physics. Build the algorithm. Deploy it where it matters.
+Understanding Physics. Building Algorithms. Accelerating Research with AI.
 
 ---
 
